@@ -185,13 +185,3 @@ Producto::create(['nombre' => 'Nuevo Producto', 'precio' => 99.99, 'stock' => 10
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-
-Tu Nombre - [tu-email@example.com](mailto:tu-email@example.com)
-
-## 🙏 Agradecimientos
-
-- [Laravel](https://laravel.com) - El framework PHP elegante
-- [Breeze](https://laravel.com/docs/breeze) - Kit de autenticación
-- [Tailwind CSS](https://tailwindcss.com) - Framework CSS utility-first
