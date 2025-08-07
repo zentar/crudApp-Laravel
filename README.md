@@ -24,7 +24,7 @@ Un sistema completo de gestión de productos desarrollado con Laravel 11 y Breez
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/crudApp.git
+git clone https://github.com/zentar/crudApp-Laravel.git
 cd crudApp
 ```
 
